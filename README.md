@@ -1,2 +1,2 @@
 # Dialog-for-Moblie
-Application to the mobile side of the pop-up layer plug-in
+适用于移动端的一个弹出层插件。
